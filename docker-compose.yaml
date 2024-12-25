@@ -1,0 +1,13 @@
+services:
+  api:
+    build: .
+    ports: 
+      - "8080:8080"
+    networks:
+      - myapp
+    volumes:
+      - app:/app/data
+networks:
+  myapp:
+volumes:
+  app:

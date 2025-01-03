@@ -18,4 +18,4 @@ Este projeto é um sistema back-end desenvolvido em Go para gerenciar vagas de e
 
 - **Go:** Versão 1.23 ou superior
 - **SQLite:** Pré-instalado
-- **Docker:** Para ambiente de desenvolvimento e execução (opcional)
+- **Docker:** Para ambiente de desenvolvimento e execução
